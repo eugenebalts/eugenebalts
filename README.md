@@ -32,15 +32,16 @@
 			</td>
 			<td align="left">
 				<h3>this is this.</h3>
-				<p><b>Description</b>: <b><i>this is this.</i></b><i>is a web application for searching and buying travel tours.
+				<p></p>
+				<p><b>Description</b>: <b><i>this is this.</i></b><i> is a web application for searching and buying travel tours.
 					The project is being developed as part of the final task of the course <a href="https://rs.school/js/" target="_blank">
 					JavaScript/Front-end (2023Q1)</a> by the <a href="https://rs.school/" target="_blank">RS School</a>
 				</i></p>
 				<p></p>
 				<p><b>Technology stack</b>: <i>TypeScript, Webpack 5, Jest, SCSS, CommerceTools API , Prettier, ESLint, Husky, lint-staged.</i></p>
 				<p><p>
-				<a href="https://github.com/eugenebalts/e-commerce" target="_blank"><i>Repository</i></a>
-				<a href="https://this-is-this.onrender.com/" target="_blank"><i>Demo</i></a>
+				<p><a href="https://github.com/eugenebalts/e-commerce" target="_blank"><i>Repository</i></a></p>
+				<p><a href="https://this-is-this.onrender.com/" target="_blank"><i>Demo</i></a></p>
 			</td>
 		</tr>
 	</table>
