@@ -15,11 +15,11 @@
 	</p>
 </div>
 
-### About me:
+## About me
 
-🗽 I Live in Poland, Warsaw 
-💻 In Front-end Development journey since December 2022 
-👨🏿‍🎓 Finished **_The Rolling Scopes School_** courses 
+🗽 I Live in Poland, Warsaw  
+💻 In Front-end Development journey since December 2022  
+👨🏿‍🎓 Finished **_The Rolling Scopes School_** courses  
 ❄️ I'm currently deepening my knowledge in React
 
 ---
