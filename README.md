@@ -24,9 +24,9 @@
 
 ---
 
-# Projects
+# Projects  
 
-### `this is this.`
+## `this is this.`  
 
 **Description**: _`this is this.` is a web application for searching and buying travel tours.  
 The project is being developed as part of the final task of the course [JavaScript/Front-end (2023Q1)](https://rs.school/js/) from the [RS School](https://rs.school/)._  
