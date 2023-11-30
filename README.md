@@ -25,6 +25,7 @@
 ---
 
 <div align="center">
+	<h2 align="center">Projects</h2>
 	<table align="center">
 		<tr>
 			<td align="center">
