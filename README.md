@@ -25,7 +25,7 @@
 ---
 
 <div align="center">
-	<tablea align="center">
+	<table align="center">
 		<tr>
 			<td>
 				<img src="./assets/projects/this-is-this.png" alt="project" width="200px">
