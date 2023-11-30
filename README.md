@@ -24,15 +24,15 @@
 
 ---
 
-## Projects
+# Projects
 
 ### `this is this.`
 
 **Description**: _`this is this.` is a web application for searching and buying travel tours.  
-The project is being developed as part of the final task of the course [JavaScript/Front-end (2023Q1)](https://rs.school/js/) from the [RS School](https://rs.school/)._
+The project is being developed as part of the final task of the course [JavaScript/Front-end (2023Q1)](https://rs.school/js/) from the [RS School](https://rs.school/)._  
 **Technology stack**: _TypeScript, Webpack 5, Jest, SCSS, CommerceTools API , Prettier, ESLint, Husky, lint-staged._
 
-_[Repository](https://github.com/eugenebalts/e-commerce)_
+_[Repository](https://github.com/eugenebalts/e-commerce)_  
 _[Demo](https://this-is-this.onrender.com/)_
 
 ---
