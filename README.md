@@ -1,7 +1,5 @@
 <h1  align="center">Hello, i'm Yauheni Baltsevich 👋</h1>
 
----
-
 <div  align="center">
 	<h3>Connect with me on</h3>
 	<p  align="center">
