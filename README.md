@@ -34,7 +34,7 @@
 				<img src="./assets/projects/this-is-this.png" alt="project">
 			</td>
 			<td align="left">
-				<h3>this is this.</h3>
+				<h2>this is this.</h2>
 				<p></p>
 				<p><b>Description</b>: <b><i>this is this.</i></b><i> is a web application for searching and buying travel tours.
 					The project is being developed as part of the final task of the course <a href="https://rs.school/js/" target="_blank">
