@@ -47,7 +47,7 @@
 		</tr>
 		<tr>
 			<td align="center">
-				<img src="./assets/projects/coffee-house.png alt="project">
+				<img src="./assets/projects/coffee-house.png" alt="project">
 			</td>
 			<td align="left">
 				<h2>Coffee-house</h2>
