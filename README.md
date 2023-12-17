@@ -45,6 +45,21 @@
 				<p><a href="https://this-is-this.onrender.com/" target="_blank"><i>Demo</i></a></p>
 			</td>
 		</tr>
+		<tr>
+			<td align="center">
+				<img src="./assets/projects/coffee-house.png alt="project">
+			</td>
+			<td align="left">
+				<h2>Coffee-house</h2>
+				<p></p>
+				<p><b>Description</b>: <b><i>Coffee-house</i></b><i> is a web development project aimed at creating a responsive and interactive website with two main pages: 'Home' and 'Menu.' The project is divided into three weeks, each focusing on specific tasks. </i></p>
+				<p></p>
+				<p><b>Technology stack</b>: <i>TypeScript, Webpack 5, SCSS</i></p>
+				<p><p>
+				<p><a href="https://github.com/eugenebalts/coffee-house" target="_blank"><i>Repository</i></a></p>
+				<p><a href="https://eugenebalts.github.io/coffee-house/coffee-house/dist/" target="_blank"><i>Demo</i></a></p>
+			</td>
+		</tr>
 	</table>
 </div>
 
