@@ -50,7 +50,7 @@
 				<img src="./assets/projects/coffee-house.png" alt="project">
 			</td>
 			<td align="left">
-				<h2>Coffee-house</h2>
+				<h2>Shelter</h2>
 				<p></p>
 				<p><b>Description</b>: <b><i>Coffee-house</i></b><i> is a web development project aimed at creating a responsive and interactive website with two main pages: 'Home' and 'Menu.' The project is divided into three weeks, each focusing on specific tasks. </i></p>
 				<p></p>
@@ -58,6 +58,21 @@
 				<p><p>
 				<p><a href="https://github.com/eugenebalts/coffee-house" target="_blank"><i>Repository</i></a></p>
 				<p><a href="https://eugenebalts.github.io/coffee-house/coffee-house/dist/" target="_blank"><i>Demo</i></a></p>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">
+				<img src="./assets/projects/shelter.PNG" alt="project">
+			</td>
+			<td align="left">
+				<h2>Shelter</h2>
+				<p></p>
+				<p><b>Description</b>: <b><i>Shelter</i></b><i> is a platform dedicated to a pet shelter named "Cozy House" in Boston. It serves the purpose of showcasing the shelter's mission, introducing available pets, and fostering user engagement. </i></p>
+				<p></p>
+				<p><b>Technology stack</b>: <i>JavaScript, HTML, CSS</i></p>
+				<p><p>
+				<p><a href="https://github.com/eugenebalts/shelter" target="_blank"><i>Repository</i></a></p>
+				<p><a href="https://eugenebalts.github.io/shelter/shelter/" target="_blank"><i>Demo</i></a></p>
 			</td>
 		</tr>
 	</table>
