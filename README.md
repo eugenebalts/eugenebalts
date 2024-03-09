@@ -29,8 +29,6 @@
 	<table align="center">
 		<tr>
 			<td width="100%"><h2> Frontend </h2></td>
-		
-			
 		</tr>
 		<tr>
 			<td align="center">
