@@ -28,9 +28,7 @@
 	<h2 align="center">P R O J E C T S</h2>
 	<table align="center">
 		<tr>
-			<td colsspan="2">
-			<h2 align="center"> F R O N T E N D </h2>
-			</td>
+			<td align="center" colspan="2">F R O N T E N D </td>
 		</tr>
 		<tr>
 			<td align="center">
