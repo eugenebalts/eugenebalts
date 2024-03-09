@@ -29,6 +29,11 @@
 	<table align="center">
 		<tr>
 			<td align="center">
+				<h2> Frontend </h2>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">
 				<img src="./assets/projects/this-is-this.png" alt="project">
 			</td>
 			<td align="left">
