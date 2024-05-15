@@ -80,6 +80,21 @@
 		</tr>
 		<tr>
 			<td align="center">
+				<img src="https://github.com/eugenebalts/eugenebalts/assets/111137232/cb4cd6c0-cdd1-4631-a6c5-f0c2ba1dc603" alt="project">
+			</td>
+			<td align="left">
+				<h2>Async Race</h2>
+				<p></p>
+				<p><b>Description</b>: <b><i>Async Race</i></b><i> is a web application for managing radio-controlled cars, drag-racing competition and showcasing race statistics. </i></p>
+				<p></p>
+				<p><b>Technology stack</b>: <i>React, Redux, TypeScirpt, SASS, ESLinter, Prettier, Framer Motion</i></p>
+				<p><p>
+				<p><a href="https://github.com/eugenebalts/test-async-race" target="_blank"><i>Repository</i></a></p>
+				<p><a href="https://test-async-race.onrender.com/" target="_blank"><i>Demo</i></a></p>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">
 				<img src="./assets/projects/minesweeper.PNG" alt="project">
 			</td>
 			<td align="left">
