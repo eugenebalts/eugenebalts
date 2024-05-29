@@ -1,5 +1,5 @@
 <h1  align="center">Hello, i'm Yauheni Baltsevich 👋</h1>
-<h2  align="center">Full Stack Developer (React, Node.js)</h2>
+<h2  align="center"><i>Full Stack Developer (React, Node.js)</i></h2>
 
 <div  align="center">
 	<h3>Connect with me on</h3>
