@@ -1,4 +1,5 @@
 <h1  align="center">Hello, i'm Yauheni Baltsevich 👋</h1>
+<h2  align="center">Full Stack Developer (React, Node.js)</h1>
 
 <div  align="center">
 	<h3>Connect with me on</h3>
@@ -18,9 +19,9 @@
 ## About me
 
 🗽 I Live in Poland, Warsaw  
-💻 In Front-end Development journey since December 2022  
+💻 In Web Development journey since December 2022  
 👨🏿‍🎓 Finished **_The Rolling Scopes School_** courses  
-❄️ I'm currently deepening my knowledge in React
+💼 Open to work
 
 ---
 
