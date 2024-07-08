@@ -64,21 +64,6 @@
 				<p><a href="https://test-async-race.onrender.com/" target="_blank"><i>Demo</i></a></p>
 			</td>
 		</tr>
-		<tr>
-			<td align="center">
-				<img src="./assets/projects/minesweeper.PNG" alt="project">
-			</td>
-			<td align="left">
-				<h2>Minesweeper</h2>
-				<p></p>
-				<p><b>Description</b>: <b><i>Minesweeper</i></b><i> is a logic puzzle video game. The goal is to clear the board without detonating any mines, using clues about the number of adjacent mines on each board. </i></p>
-				<p></p>
-				<p><b>Technology stack</b>: <i>JavaScript, HTML, CSS, Webpack 5</i></p>
-				<p><p>
-				<p><a href="https://github.com/eugenebalts/minesweeper" target="_blank"><i>Repository</i></a></p>
-				<p><a href="https://eugenebalts.github.io/minesweeper/minesweeper/dist/" target="_blank"><i>Demo</i></a></p>
-			</td>
-		</tr>
 	</table>
 </div>
 
