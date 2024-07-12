@@ -64,6 +64,25 @@
 				<p><a href="https://test-async-race.onrender.com/" target="_blank"><i>Demo</i></a></p>
 			</td>
 		</tr>
+		<tr>
+			<td align="center" colspan="2"><h3>B A C K E N D</h3></td>
+		</tr>
+		<tr>
+			<td align="center">
+				<h2>Home Library Service</h2>
+				<p></p>
+				<p><b>Description</b>: <b><i>Home Library Service</i></b><i> 
+					is a backend service designed to manage users' personal music library. 
+					The service provides an API for creating, editing and viewing albums, artists, tracks, and adding 
+					them to favorites. The system includes user management and authentication functionality.
+				</i></p>
+				<p></p>
+				<p><b>Technology stack</b>: <i>NestJS, TypeScript, PostgreSQL, TypeORM, JWT, Bcrypt, Swagger, Docker, Jest, Prettier, ESLint.</i></p>
+				<p><p>
+				<p><a href="https://github.com/eugenebalts/nodejs2024Q1-service" target="_blank"><i>Repository</i></a></p>
+			</td>
+		</tr>
+
 	</table>
 </div>
 
