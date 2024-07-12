@@ -82,7 +82,6 @@
 				<p><a href="https://github.com/eugenebalts/nodejs2024Q1-service" target="_blank"><i>Repository</i></a></p>
 			</td>
 		</tr>
-
 	</table>
 </div>
 
