@@ -19,7 +19,7 @@
 ## About me
 
 🗽 I Live in Poland, Warsaw  
-💻 In Web Development journey since December 2022  
+💻 In Web Development journey since December 2022  (with ~one year of commercial exp as React Developer)
 👨🏿‍🎓 Finished **_The Rolling Scopes School_** courses  
 💼 Open to work
 
