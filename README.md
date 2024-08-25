@@ -7,7 +7,7 @@
 		<a  href="https://www.linkedin.com/in/eugenebalts/">
 			<img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
 		</a>
-		<a  href="mailto:norcobeatz@gmail.com">
+		<a  href="mailto:yauhenibaltsevich@gmail.com">
 			<img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
 		</a>
 		<a  href="https://t.me/eugenebalts">
