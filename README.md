@@ -2,7 +2,7 @@
 <h3  align="center"><i>Full Stack Developer (React, Node.js) with 2+ years of experience</i></h3>
 
 <div  align="center">
-	<h3>Connect with me on</h3>
+	<h3>Connect with me via</h3>
 	<p  align="center">
 		<a  href="https://www.linkedin.com/in/eugenebalts/">
 			<img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
