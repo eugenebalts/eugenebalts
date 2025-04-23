@@ -1,5 +1,5 @@
 <h1  align="center">Hello, i'm Yauheni Baltsevich 👋</h1>
-<h3  align="center"><i>Full Stack Developer (React, Node.js) with 2+ years of experience</i></h3>
+<h3  align="center"><i>Full Stack Developer (React, Node.js) with ~3 years of experience</i></h3>
 
 <div  align="center">
 	<h3>Connect with me via</h3>
@@ -19,7 +19,7 @@
 ## About me
 
 🗽 I Live in Poland, Warsaw  
-💻 In Web Development journey since August 2022  (with ~one year of commercial exp as React Developer)  
+💻 In Web Development journey since 2022
 👨🏿‍🎓 Finished **_The Rolling Scopes School_** courses  
 💘 I Really enjoy what i do 💞  
 
